@@ -73,8 +73,9 @@ stylesheet, `css/style.css`, linked from every page's `<head>`:
   `srcset` pattern.
 
 ### Note on Part 1 feedback
-At the time Part 2 was completed, marks and lecturer feedback for Part 1 had not yet
-been released. No corrections from Part 1 feedback are reflected in this changelog
+Feedback from part 1 not received has this was not submitted due to issues with registration 
+and getting up and running. Once I was up and running I thought I missed deadline and did 
+not resubmit until today. No corrections from Part 1 feedback are reflected in this changelog
 for that reason - once feedback is received, corrections will be implemented and
 logged here as their own dated entries, as the brief requires.
 
@@ -131,19 +132,19 @@ the `screenshots/` folder.
 | ![Services desktop](screenshots/services-desktop.png) | ![Services tablet](screenshots/services-tablet.png) | ![Services mobile](screenshots/services-mobile.png) |
 
 ## Changelog
-- **[Insert Date]** - Part 1: Initial project structure created. Sitemap, file/folder
+- **2026/09/21** - Part 1: Initial project structure created. Sitemap, file/folder
   structure, and 5 HTML pages (Home, About, Services, Enquiry, Contact) built with
   semantic HTML5, integrated content, and a shared navigation system. Placeholder
   `style.css` and `script.js` files added for Parts 2 and 3.
-- **[Insert Date]** - Part 2: Built the full external stylesheet (`css/style.css`)
+- **2026/09/21** - Part 2: Built the full external stylesheet (`css/style.css`)
   covering design tokens, typography, layout (Flexbox + CSS Grid), visual/interactive
   styling, and responsive design at two breakpoints. Linked Google Fonts (Poppins,
   Inter) from all 5 pages. Generated four responsive width variants for each photo
   and added `srcset`/`sizes` to every `<img>` tag. Added screenshot evidence at
   desktop/tablet/mobile widths for the homepage and services page.
-- **[Insert Date]** - Part 2: No Part 1 corrections logged this round - lecturer
+- **2026/09/21** - Part 2: No Part 1 corrections logged this round - lecturer
   feedback for Part 1 had not yet been released at time of submission.
-- **[Insert Date]** - Part 2: Added the real homepage hero photo
+- **2026/09/21** - Part 2: Added the real homepage hero photo
   (`images/hero-photo.jpg`, plus responsive width variants), replacing the
   temporary SVG placeholder, and wired it up with a `<picture>` element.
 
